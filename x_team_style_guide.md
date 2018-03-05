@@ -15,7 +15,7 @@ such as the first letter of the name for interfaces and classes should also be c
 * exception types
 	Eg. DuplicateKeyExceptions, RuntimeException    
 * fields
-	Eg. data, ptr
+	Eg. data, ptr, prctComplete
 * methods
 	Eg. deleteFirstItem, insertIntegerOnly
 * parameters
@@ -46,7 +46,7 @@ such as the first letter of the name for interfaces and classes should also be c
   * enhanced for loops - bracket same line as statement header end bracket new line
   
    Selection and looping statements do not require braces if their body contains only one statement.
-   Use tabs/spaces to indicate the level of nesting. Indentation occurs in fixed-width intervals, four whitespaces specifically. 
+   Use spaces to indicate the level of nesting. Indentation occurs in fixed-width intervals, four whitespaces specifically. 
    
   statement header {
   
