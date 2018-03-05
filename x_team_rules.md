@@ -18,6 +18,7 @@ and missed deadlines.
 * meet at the beginning of the assignment to distribute the tasks and toward the completion of project to ensure
 everything is included
 * meet when it's necessary to discuss about the barriers or disagreement
+* communicate about progress and challenges over email
 
 
 ## How we will communicate difficulties with a task assigned to us
